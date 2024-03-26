@@ -27,11 +27,11 @@ public class Ex502 {
     // Circle
     public static void circ(int a) {
         String result = "Pizza size : " + 2 * a * 3.1415792 + "inches : ";
-        System.out.println(result); I
+        System.out.println(result); 
     }
     public static void circ(double a) {
         String result = "Pizza size : " + 2 * a * 3.1415792 + "inches : ";
-        System.out.println(result); I
+        System.out.println(result); 
     }
     public static void area(int a) {
         String result = "Pizza area : " + a * a * 3.1415792 + "inches : ";
